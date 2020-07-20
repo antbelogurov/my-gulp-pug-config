@@ -1,0 +1,12 @@
+@import 'blocks/header';
+$color:red;
+body {
+    background-color: aqua;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+    background-color: blue;
+    color: red;
+}
